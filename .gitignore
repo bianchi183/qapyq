@@ -1,0 +1,6 @@
+*.pyc
+dist/
+.venv/
+node_modules/
+*.log
+build/
